@@ -28,4 +28,4 @@ jobs:
       - name: Build project
         run: npm install
       - name: Run code
-        run: npm start
+        run: npm run
